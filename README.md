@@ -1,48 +1,28 @@
-# Log Analysis Using Machine Learning And Hadoop
+# Weblog Analysis and Clustering
 
-## Project Overview
-This project aims to analyze log data using machine learning techniques and Hadoop for distributed processing. The goal is to extract meaningful insights from large volumes of log data.
+This repository contains Python code for analyzing weblog data and applying various clustering algorithms to identify patterns and group similar web sessions.
 
-## Features
-- Log data preprocessing
-- Machine learning model training and evaluation
-- Distributed data processing using Hadoop
-- Visualization of analysis results
+## Project Description
 
-## Installation
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/Log-Analysis-Using-Machine-Learning-And-Hadoop.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd Log-Analysis-Using-Machine-Learning-And-Hadoop/Project_Files
-    ```
-3. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ``
-    
-## Usage
-1. Preprocess the log data:
-    ```sh
-    python preprocess_logs.py
-    ```
-2. Train the machine learning model:
-    ```sh
-    python train_model.py
-    ```
-3. Run the Hadoop job:
-    ```sh
-    hadoop jar your_hadoop_job.jar input_path output_path
-    ```
-4. Visualize the results:
-    ```sh
-    python visualize_results.py
-    ```
+The project aims to process weblog data, extract relevant features, and utilize clustering techniques to categorize web sessions based on their behavior. This can be useful for identifying potential anomalies, understanding user behavior, and improving website security.
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
+## Files
 
-## License
-This project is licensed under the MIT License.
+* `weblog.csv`: The input CSV file containing weblog data.
+* `weblog_analysis_clustering.ipynb`: Jupyter Notebook containing the Python code for data processing, feature extraction, and clustering.
+* `README.md`: This file, providing an overview of the project.
+
+## Dependencies
+
+* Python 3.x
+* NumPy (`numpy`)
+* Pandas (`pandas`)
+* Matplotlib (`matplotlib`)
+* Scikit-learn (`sklearn`)
+* Seaborn (`seaborn`)
+* NLTK (`nltk`)
+
+You can install these dependencies using pip:
+
+```bash
+pip install numpy pandas matplotlib scikit-learn seaborn nltk
