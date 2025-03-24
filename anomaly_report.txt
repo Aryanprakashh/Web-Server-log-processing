@@ -1,0 +1,69 @@
+Detailed Anomaly Detection Report
+===============================
+
+Total Anomalies Detected: 62
+Threshold: 0.0264
+
+Anomalies:
+Index: 0, Reconstruction Error: 0.0408
+Index: 1, Reconstruction Error: 0.0422
+Index: 2, Reconstruction Error: 0.0619
+Index: 3, Reconstruction Error: 0.0646
+Index: 4, Reconstruction Error: 0.0637
+Index: 5, Reconstruction Error: 0.0573
+Index: 6, Reconstruction Error: 0.0277
+Index: 7, Reconstruction Error: 0.0293
+Index: 8, Reconstruction Error: 0.0282
+Index: 23, Reconstruction Error: 0.0299
+Index: 24, Reconstruction Error: 0.0300
+Index: 25, Reconstruction Error: 0.0287
+Index: 35, Reconstruction Error: 0.0303
+Index: 39, Reconstruction Error: 0.0271
+Index: 40, Reconstruction Error: 0.0307
+Index: 56, Reconstruction Error: 0.0305
+Index: 85, Reconstruction Error: 0.0284
+Index: 250, Reconstruction Error: 0.0265
+Index: 251, Reconstruction Error: 0.0294
+Index: 252, Reconstruction Error: 0.0278
+Index: 253, Reconstruction Error: 0.0301
+Index: 254, Reconstruction Error: 0.0306
+Index: 255, Reconstruction Error: 0.0307
+Index: 259, Reconstruction Error: 0.0273
+Index: 272, Reconstruction Error: 0.0353
+Index: 278, Reconstruction Error: 0.0373
+Index: 279, Reconstruction Error: 0.0366
+Index: 280, Reconstruction Error: 0.0461
+Index: 281, Reconstruction Error: 0.0441
+Index: 282, Reconstruction Error: 0.0473
+Index: 283, Reconstruction Error: 0.0453
+Index: 284, Reconstruction Error: 0.0476
+Index: 285, Reconstruction Error: 0.0417
+Index: 286, Reconstruction Error: 0.0480
+Index: 287, Reconstruction Error: 0.0482
+Index: 288, Reconstruction Error: 0.0500
+Index: 289, Reconstruction Error: 0.0478
+Index: 290, Reconstruction Error: 0.0496
+Index: 291, Reconstruction Error: 0.0494
+Index: 292, Reconstruction Error: 0.0435
+Index: 293, Reconstruction Error: 0.0344
+Index: 294, Reconstruction Error: 0.0493
+Index: 295, Reconstruction Error: 0.0474
+Index: 296, Reconstruction Error: 0.0483
+Index: 297, Reconstruction Error: 0.0458
+Index: 298, Reconstruction Error: 0.0442
+Index: 299, Reconstruction Error: 0.0452
+Index: 300, Reconstruction Error: 0.0594
+Index: 301, Reconstruction Error: 0.0327
+Index: 302, Reconstruction Error: 0.0324
+Index: 303, Reconstruction Error: 0.0332
+Index: 304, Reconstruction Error: 0.0367
+Index: 305, Reconstruction Error: 0.0689
+Index: 306, Reconstruction Error: 0.1027
+Index: 307, Reconstruction Error: 0.0931
+Index: 308, Reconstruction Error: 0.0851
+Index: 309, Reconstruction Error: 0.0605
+Index: 1180, Reconstruction Error: 0.0324
+Index: 1181, Reconstruction Error: 0.0328
+Index: 1182, Reconstruction Error: 0.0327
+Index: 1183, Reconstruction Error: 0.0328
+Index: 1184, Reconstruction Error: 0.0331
